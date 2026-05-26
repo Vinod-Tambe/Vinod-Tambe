@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinod Tambe</h1>
-<h3 align="center">Senior Software Developer | Full-Stack & API Specialist Skilled in Node.js, React, Next.js, PHP, MongoDB, MySQL, and more, with expertise in building REST/SOAP APIs and integrating third-party services like Stripe, Shippo, and Telegram for robust, user-friendly applications.</h3>
+<h3 align="center">Senior Software Developer | Full-Stack & API Specialist Skilled in Node.js, React, Next.js, Nest.js, MongoDB, MySQL, and more, with expertise in building REST/SOAP APIs and integrating third-party services like Stripe, Shippo, and Telegram for robust, user-friendly applications.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
